@@ -1,0 +1,14 @@
+/home/vladimir/language_server/bin/Debug/netcoreapp2.2/language_server.deps.json
+/home/vladimir/language_server/bin/Debug/netcoreapp2.2/language_server.runtimeconfig.json
+/home/vladimir/language_server/bin/Debug/netcoreapp2.2/language_server.runtimeconfig.dev.json
+/home/vladimir/language_server/bin/Debug/netcoreapp2.2/language_server.dll
+/home/vladimir/language_server/bin/Debug/netcoreapp2.2/language_server.pdb
+/home/vladimir/language_server/obj/Debug/netcoreapp2.2/language_server.csprojAssemblyReference.cache
+/home/vladimir/language_server/obj/Debug/netcoreapp2.2/language_server.csproj.CoreCompileInputs.cache
+/home/vladimir/language_server/obj/Debug/netcoreapp2.2/language_server.RazorAssemblyInfo.cache
+/home/vladimir/language_server/obj/Debug/netcoreapp2.2/language_server.RazorAssemblyInfo.cs
+/home/vladimir/language_server/obj/Debug/netcoreapp2.2/language_server.AssemblyInfoInputs.cache
+/home/vladimir/language_server/obj/Debug/netcoreapp2.2/language_server.AssemblyInfo.cs
+/home/vladimir/language_server/obj/Debug/netcoreapp2.2/language_server.RazorTargetAssemblyInfo.cache
+/home/vladimir/language_server/obj/Debug/netcoreapp2.2/language_server.dll
+/home/vladimir/language_server/obj/Debug/netcoreapp2.2/language_server.pdb
